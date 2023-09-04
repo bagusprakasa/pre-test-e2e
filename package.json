@@ -4,7 +4,8 @@
   "description": "Pre test for junior QA in cashplus",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run",
+    "open": "npx cypress open"
   },
   "repository": {
     "type": "git",
