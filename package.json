@@ -1,0 +1,35 @@
+{
+  "name": "pre-test-cahsplus",
+  "version": "1.0.0",
+  "description": "Pre test for junior QA in cashplus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagusprakasa/pre-test-e2e.git"
+  },
+  "keywords": [
+    "QA",
+    "Automation",
+    "E2E",
+    "Pre-Test-Cashplus"
+  ],
+  "author": "bagusprakasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagusprakasa/pre-test-e2e/issues"
+  },
+  "homepage": "https://github.com/bagusprakasa/pre-test-e2e#readme",
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  },
+  "dependencies": {
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "babel-plugin-module-resolver": "^5.0.0",
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "dotenv": "^16.3.1",
+    "prettier": "^3.0.3"
+  }
+}
