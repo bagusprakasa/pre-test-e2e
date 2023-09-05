@@ -1,3 +1,5 @@
-export const inputUserName = 'input[name="username"]';
-export const inputPassword = 'input[name="password"]';
-export const buttonLogin = 'input[type="submit"]';
+export const userNameInput = "#user-name";
+export const passwordInput = '[data-test="password"]';
+export const loginButton = '[name="login-button"]';
+export const titleClass = ".title";
+export const errorMessage = '[data-test="error"]';

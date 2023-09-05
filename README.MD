@@ -24,11 +24,13 @@ Go to the project directory
 
 Set Up Environment
 
-```bash
+```
   copy file .env.example
   rename to .env
-  change BASE_URL in .env link to test
 ```
+
+To run this project, you will need to add the following environment variables to your .env file
+`BASE_URL`
 
 Install dependencies
 

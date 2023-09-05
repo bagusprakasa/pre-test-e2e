@@ -1,4 +1,4 @@
 export const VALID_USER = {
-  userName: "usertestingjuniorqa1",
-  password: "password"
+  userName: "standard_user",
+  password: "secret_sauce"
 };
